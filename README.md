@@ -4,6 +4,12 @@ Java 初級者向けのサンプルプログラム集
 
 Python 版は[こちら](https://github.com/AyumuTakai/python_samples)
 
+## 変換/暗号 (/convert)
+
+| 難易度 | ファイル名                                                                                            | 概要             | キーワード      |
+| ------ | ----------------------------------------------------------------------------------------------------- | ---------------- | --------------- |
+| ☆      | [TanukiDecrypt.java](https://github.com/AyumuTakai/java_samples/blob/main/convert/TanukiDecrypt.java) | たぬき暗号解読器 | replace,scanner |
+
 ## さいころ (/dice)
 
 | 難易度 | ファイル名                                                                           | 概要                                        | キーワード         |
